@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      var a;//variable a single line comment
+      a=5;/*. multiline comment */  
+     var b="JAvaScript";
+   var c=4,d="Program",f=3.14; 
+   b=10;                       
+        c=a+b; //Addition 
+       
+       c=a-b;//Subtaction
+       
+    
+        c=a*b;//Multiplication
+      
+       
+        c=b/a;
+        
+        
+        c=b%a;
+       a++;//a will remain 5
+        
+        c=a;//a is going to increment
+c=++a;
+alert(c);
+
+      alert(f);
+      </script>
+      </head>
+</html>
+
+<!--   var a; declaring a variable name A
+      var a;
+      a=5;
+      alert(a); - runs like a function. We are dealing with numbers now
+            var a;//variable a single line comment
+      a=5;/*. multiline comment      
+-->
