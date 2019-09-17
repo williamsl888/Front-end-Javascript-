@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      var a;//variable a single line comment
+      a=5;/*. multiline comment */  
+    a++; //Post increment operator, plus 1 to A
+    //var b= Math.pow(a,4);
+    var b=a**2
+    alert(b);
+      </script>
+      </head>
+</html>
+
+<!--   var a; declaring a variable name A
+      var a;
+      a=5;
+      alert(a); - runs like a function. We are dealing with numbers now
+            var a;//variable a single line comment
+      a=5;/*. multiline comment      
+-->
